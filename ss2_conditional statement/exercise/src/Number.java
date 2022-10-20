@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Number {
     public static void main(String[] args) {
+        //Bài tập 1: Viết chương trình kiểm tra bàn phím khi ấn xuống.
+        //Nếu người dùng ấn một phím (từ 0 tới 9) thì chương trình sẽ hiển thị số số được nhấn này,
+        // ngược lại hiển thị “Phím bạn ấn không phải là số!”.
 
         {
             Scanner sc = new Scanner(System.in);
